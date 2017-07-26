@@ -4,7 +4,7 @@
 上面的Title请务必填写谱子出自的作品名！
 
 只有当第一次提交一个新作品的谱子时，才需要新建一个new issue和填写Title！
-因为一个作品（issue）下面可以提交（commit）多次谱子，所以之后每次该作品的谱子只需要在相应issue下以相同格式commit即可。
+因为一个作品（issue）下面可以提交（comment）多次谱子，所以之后每次该作品的谱子只需要在相应issue下以相同格式comment即可。comment时可以将issue模板复制，选择Add a saved reply，保存为自己的回答模板。
 
 -->
 
