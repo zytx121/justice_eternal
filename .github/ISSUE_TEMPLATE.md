@@ -15,7 +15,7 @@
 
 ## 歌曲信息
 
--- ![](https://img.shields.io/badge/曲名-未知-brightgreen.svg)
+- ![](https://img.shields.io/badge/曲名-未知-brightgreen.svg)
 - ![](https://img.shields.io/badge/专辑-未知-ff69b4.svg)
 - ![](https://img.shields.io/badge/作词-未知-orange.svg)
 - ![](https://img.shields.io/badge/作曲-未知-blue.svg)
