@@ -8,18 +8,17 @@
 
 -->
 
-# 谱曲名称
+# 谱曲名称（替换）
 
 <!-- 歌曲配图  复制粘贴到该处即可 -->
 
 
 ## 歌曲信息
 
-- ![](https://img.shields.io/badge/曲名-未知-brightgreen.svg)
 - ![](https://img.shields.io/badge/专辑-未知-ff69b4.svg)
 - ![](https://img.shields.io/badge/作词-未知-orange.svg)
 - ![](https://img.shields.io/badge/作曲-未知-blue.svg)
-- ![](https://img.shields.io/badge/编曲-未知-red.svg)
+- ![](https://img.shields.io/badge/编曲-未知-brightgreen.svg)
 - ![](https://img.shields.io/badge/歌手-未知-d6504f.svg)
 
 
@@ -39,7 +38,8 @@
 
 [^_^]:
       请严格遵守上述格式提交曲谱，如果不符合规范，作者有权将其删除。
-
+      如果链接出错请检查是否有空格，有的话请删去。
+      如果信息缺省，删掉对应代码即可。
       ps. 如果有什么想说的话可以写在最后，但不能影响上述格式。
 
 -->
