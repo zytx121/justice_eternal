@@ -1,17 +1,17 @@
 # Justice_Eternal 一个ACG口琴众的大家庭
-
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
 ## 网站说明
 
-Justice_eternal吧网站vue版本（目前只支持PC端- -！）
+Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本（目前只支持PC端- -！）
 
-网址：lightmoon.pw
+网址：[lightmoon.pw](lightmoon.pw)
 
 - 在[BGAIssueBlog-Web](https://github.com/bingoogolapple/BGAIssueBlog)的基础上进行改造~
 
-- 通过axios调用github的api来获取issue
+- 通过[axios](https://github.com/mzabriskie/axios)调用github的api来获取issue
 
-- 利用vuex添加了标签部分隐藏/展示功能~
+- 利用[vuex](https://github.com/vuejs/vuex)添加了标签部分隐藏/展示功能~
 
 - 添加了element Menu ~
 
