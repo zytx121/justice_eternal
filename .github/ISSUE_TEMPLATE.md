@@ -10,7 +10,7 @@
 
 # 谱曲名称
 
-![歌曲配图](http://upload-images.jianshu.io/upload_images/2141706-b9b5c98e412b388c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<!-- 歌曲配图  复制粘贴到该处即可 -->
 
 
 ## 歌曲信息
@@ -19,8 +19,10 @@
 - ![](https://img.shields.io/badge/专辑-未知-ff69b4.svg)
 - ![](https://img.shields.io/badge/作词-未知-orange.svg)
 - ![](https://img.shields.io/badge/作曲-未知-blue.svg)
+- ![](https://img.shields.io/badge/编曲-未知-red.svg)
 - ![](https://img.shields.io/badge/歌手-未知-d6504f.svg)
-- 
+
+
 ## 谱
 
 ```
