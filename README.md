@@ -1,4 +1,4 @@
-# Justice_Eternal 
+# Justice_Eternal（PC端）
 —— 一个ACG口琴众的大家庭
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
@@ -9,7 +9,10 @@ Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
 
 
 移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
+
 PC端网址：[lightmoon.pw](lightmoon.pw)
+
+曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
 
 - 在[BGAIssueBlog-Web](https://github.com/bingoogolapple/BGAIssueBlog)的基础上进行改造~
 
