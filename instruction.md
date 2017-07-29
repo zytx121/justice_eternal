@@ -37,10 +37,11 @@
 
 ## 关于如何注册github（全球第一同性交友网站）
 
-1 使用邮箱注册github账号，随便什么邮箱都行；
-2 到我的主页【https://github.com/zytx121】Follow 一下我~
-3 到曲谱仓库（卧室哦不。。厨房）【https://github.com/zytx121/justice_eternal】点击一下star星星关注一下这个项目~
-4 进入issue页面，点击new issue （详见**关于投稿**部分）
-5 到别的曲谱下面评论，留言，分享心得，交友。。。
+- 使用邮箱注册github账号，随便什么邮箱都行；
+- 到我的[主页](https://github.com/zytx121) Follow 一下我~
+- 到曲谱[仓库（卧室哦不。。厨房）](https://github.com/zytx121/justice_eternal)点击一下star星星关注一下这个项目~
+- 进入issue页面，点击new issue （详见**关于投稿**部分）
+- 到别的曲谱下面评论，留言，分享心得，交友。。。
+
 
 注：关于github命令行什么的大家完全不用理会，只要把github的本职作用发挥好即可！嗯。

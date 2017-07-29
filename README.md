@@ -7,6 +7,7 @@
 
 Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
 
+![demo](http://upload-images.jianshu.io/upload_images/2141706-7a48a8b1470c05bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
 
@@ -90,7 +91,9 @@ bd谱专用半音阶口琴使用，由数字和b或d构成（如10b，10d）。�
 
 接着，很多的曲子在吧内都曾经有过扒谱，所以请用好高级搜索，见je吧主页面最上端“全吧搜索”旁边的“高级搜索”字样，把搜索范围限定为justice_eternal以后在关键词输入曲名（一般建议输入日文或英文原名），挨个检查帖子内容确认有没有简谱
 
-最后，扒谱是一项非常非常实用的技能，非常建议学习。详细内容见帖：http://tieba.baidu.com/p/3913706845?pn=1，第102楼，注意在没有钢琴app的时候一把半音阶口琴也可以起到类似的作用）
+最后，扒谱是一项非常非常实用的技能，非常建议学习。详细内容见帖：http://tieba.baidu.com/p/3913706845?pn=1
+
+第102楼，注意在没有钢琴app的时候一把半音阶口琴也可以起到类似的作用
 
 - http://tieba.baidu.com/p/2867736058 超赞的扒谱教学帖
 
