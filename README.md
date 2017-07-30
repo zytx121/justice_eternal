@@ -11,7 +11,7 @@ Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
 
 移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
 
-PC端网址：[lightmoon.pw](lightmoon.pw)
+PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 
 曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
 
