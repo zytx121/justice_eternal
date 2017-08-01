@@ -1,11 +1,19 @@
 # Justice_Eternal 曲谱库
-—— 一个ACG口琴众的大家庭
+> 一个ACG口琴众的大家庭
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
 ## 网站说明
 
 利用issues收集各种ACG口琴谱，当然也欢迎其他三次元口琴谱投稿哟！
+
+移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
+
+PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
+
+曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
+
+传谱教程： [https://github.com/zytx121/justice_eternal/blob/master/instruction.md](https://github.com/zytx121/justice_eternal/blob/master/instruction.md)
 
 ## Contributors
 
