@@ -26,7 +26,7 @@
 
 - 只有当第一次提交一个新作品的谱子时，才需要新建一个new issue和填写Title！因为一个作品（issue）下面可以提交（comment）多次谱子，所以之后每次该作品的谱子只需要在相应issue下以相同格式comment即可。
 - 歌曲配图直接拖拽或者复制粘贴即可。
-- 歌曲信息只需将svg图片链接中的`未知`二字替换即可。每个信息内不能有空格以及`- `符号，如果有请去掉并适当修改。
+- 歌曲信息只需将svg图片链接中的`未知`二字替换即可。每个信息内不能有空格以及`- `符号，如果有请用`_`代替或适当修改。
 - 扒谱部分只需将`扒谱大佬的ID`以及`扒谱大佬的贴吧url`替换为相应内容即可
 
 另：如果投稿不符合格式要求，本人有权将issue关闭。
@@ -43,5 +43,13 @@
 - 进入issue页面，点击new issue （详见**关于投稿**部分）
 - 到别的曲谱下面评论，留言，分享心得，交友。。。
 
-
-注：关于github命令行什么的大家完全不用理会，只要把github的本职作用发挥好即可！嗯。
+附：图文教程
+![1.png](http://upload-images.jianshu.io/upload_images/2141706-94699acb3645f161.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![2.png](http://upload-images.jianshu.io/upload_images/2141706-88d4721efd8d155b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![3.png](http://upload-images.jianshu.io/upload_images/2141706-011f8420ca3a3608.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![4.png](http://upload-images.jianshu.io/upload_images/2141706-f25bfcc0922fc371.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![5.png](http://upload-images.jianshu.io/upload_images/2141706-f28363e157c203ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![6.png](http://upload-images.jianshu.io/upload_images/2141706-cbd36aa50d63779a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![7.png](http://upload-images.jianshu.io/upload_images/2141706-cc34e3c2928e91a3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![8.png](http://upload-images.jianshu.io/upload_images/2141706-881ccabad647f023.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![9.png](http://upload-images.jianshu.io/upload_images/2141706-af5bc30287f9fa35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
