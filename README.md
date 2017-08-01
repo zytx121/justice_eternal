@@ -1,31 +1,16 @@
-# Justice_Eternal（PC端）
+# Justice_Eternal 曲谱库
 —— 一个ACG口琴众的大家庭
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
 ## 网站说明
 
-Justice_eternal吧网站[vue](https://github.com/vuejs/vue)版本
+利用issues收集各种ACG口琴谱，当然也欢迎其他三次元口琴谱投稿哟！
 
-![demo](http://upload-images.jianshu.io/upload_images/2141706-7a48a8b1470c05bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## Contributors
 
-移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
-
-PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
-
-曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
-
-- 在[BGAIssueBlog-Web](https://github.com/bingoogolapple/BGAIssueBlog)的基础上进行改造~
-
-- 通过[axios](https://github.com/mzabriskie/axios)调用github的api来获取issue
-
-- 利用[vuex](https://github.com/vuejs/vuex)添加了标签部分隐藏/展示功能~
-
-- 添加了element Menu ~
-
-- 引入[DPlayer播放器](https://github.com/DIYgod/DPlayer)，展示b站部分精选口琴视频以及弹幕~
-
-- 引入[vue-aplayer播放器](http://aplayer.quq.cat/)，自动播放口琴动漫组曲~
+<a href="https://tieba.baidu.com/f?kw=justice_eternal&fr=index"><img src="http://upload-images.jianshu.io/upload_images/2141706-4bdf2f2289334639.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="66px" width="66px"></a>
+<a href="https://github.com/GlacierStudioQ"><img src="https://avatars2.githubusercontent.com/u/13463146?v=4&s=460" height="66px" width="66px"></a>
 
 ## 新人必看
 
@@ -118,6 +103,12 @@ bd谱专用半音阶口琴使用，由数字和b或d构成（如10b，10d）。�
 
 ## 关于本站
 
-本站完全出于兴趣构建，基本零成本，如果大家喜欢，还请在github上star一下本项目，顺便follow一下本人~~阿里嘎多！
+本站完全出于兴趣构建，基本零成本，如果大家喜欢，还请在github上star一下本项目，顺便follow一下本人~~ 阿里嘎多！
 
 另外，如果对本站有什么建议也一定要在issue中提出来哦！要是能够PR那就再好不过了- -！
+
+## License
+
+Justice_Eternal is released under the MIT license. See LICENSE for details.
+
+
