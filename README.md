@@ -19,7 +19,6 @@ PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 
 <a href="https://tieba.baidu.com/f?kw=justice_eternal&fr=index"><img src="http://upload-images.jianshu.io/upload_images/2141706-4bdf2f2289334639.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="66px" width="66px"></a>
 <a href="https://github.com/GlacierStudioQ"><img src="https://avatars2.githubusercontent.com/u/13463146?v=4&s=460" height="66px" width="66px"></a>
-<a href="https://github.com/liurunzechn"><img src="https://avatars2.githubusercontent.com/u/30720999?v=4&s=460" height="66px" width="66px"></a>
 
 ## 新人必看
 
