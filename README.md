@@ -3,13 +3,6 @@
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
-## je谱
-
-- 1＝C的情况下1234567同简谱的中音，#升半音，例如1# 123中#1为升半音，即推半音键。
-- 1＝#C的情况下，1234567全部是升半音，b为降半音，如12b13中的b1即松半音阶推键。
-- ｛｝中为超低音区音,（）中为低音区音,[] 中为高音区音
-- 至于时值节奏，单曲循环自行把握。
-
 ## Contributors
 
 <a href="https://tieba.baidu.com/f?kw=justice_eternal&fr=index"><img src="http://upload-images.jianshu.io/upload_images/2141706-4bdf2f2289334639.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="66px" width="66px"></a>
@@ -52,7 +45,21 @@ https://api.github.com/repos/zytx121/justice_eternal/labels
 
 交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
 
-## Q&A
+#### je谱
+
+- 1＝C的情况下1234567同简谱的中音，#升半音，例如1# 123中#1为升半音，即推半音键。
+- 1＝#C的情况下，1234567全部是升半音，b为降半音，如12b13中的b1即松半音阶推键。
+- ｛｝中为超低音区音,（）中为低音区音,[] 中为高音区音。
+- 至于时值节奏，单曲循环自行把握。
+
+#### 扒谱人
+一种以码数字为乐趣的生物，个体可赋有被动技能“绝对音准”。
+#### 搬运工
+一群以搬运谱子为乐趣的勤劳生物。
+#### 用户
+一种以演奏为乐趣的生物。
+
+#### Q&A
 
 Q：曲谱库和网站和客户端是什么关系
 A：曲谱库是利用github的相关功能来存放谱子，起到一个数据库的作用。网站和客户端则是通过调用曲谱库中的数据，更好的方便大家使用，但其实利用github曲库本身也能实现谱子的查找。总的来说，github曲库就像是砖，用它可以搭建不同风格的建筑（网站或客户端）。我近期会将曲库的api端口详细的写出来，如果有小伙伴想用咱们曲库开发自己的网站或者客户端，咱们绝对是热烈欢迎！并且提供一对一的技术支持！（ios开发的小伙伴你在哪里？快到碗里来！）
