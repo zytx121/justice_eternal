@@ -54,6 +54,6 @@ A：可以的。考虑到大家扒的谱根据自己的偏好可能存在差异�
 
 ## License
 
-Justice_Eternal is released under the MIT license. See LICENSE for details.
+MIT 
 
 
