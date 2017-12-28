@@ -1,17 +1,25 @@
 # Justice_Eternal 曲谱库
-> 一个ACG口琴众的大家庭
+> 一个利用github的issue功能收集je谱（也有部分简谱）的数据库，完全开源，各位可以自由调用该曲库API作非盈利之用。
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
-## 网站说明
+## 什么是je谱
+1＝C的情况下1234567同简谱的中音，#升半音，例如1# 123中#1为升半音，即推半音键。
+1＝#C的情况下，1234567全部是升半音，b为降半音，如12b13中的b1即松半音阶推键。
+（）内低音，[]内高音。例如：(1234)[1234]或(1)(2)(3)(4)……等等。
+至于时值节奏，单曲循环自行把握。
 
-利用issues收集各种ACG口琴谱，当然也欢迎其他三次元口琴谱投稿哟！
-
-移动端网址：[https://justice-eternal.github.io/](https://justice-eternal.github.io)
-
-PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
+## 相关资源
 
 曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
+
+移动端网站：[jefun.top](http://jefun.top)
+
+PC端网站：[lightmoon.pw](http://lightmoon.pw)
+
+安卓客户端下载地址： https://pan.baidu.com/s/1pLMIsn5 密码: qrt9
+
+交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
 
 传谱教程： [https://github.com/zytx121/justice_eternal/blob/master/instruction.md](https://github.com/zytx121/justice_eternal/blob/master/instruction.md)
 
@@ -21,6 +29,7 @@ PC端网址：[http://lightmoon.pw](http://lightmoon.pw)
 <a href="https://github.com/GlacierStudioQ"><img src="https://avatars2.githubusercontent.com/u/13463146?v=4&s=460" height="66px" width="66px"></a>
 <a href="https://github.com/liurunzechn"><img src="https://avatars2.githubusercontent.com/u/30720999?v=4&s=460" height="66px" width="66px"></a>
 <a href="https://github.com/NorthPoleStar"><img src="https://avatars1.githubusercontent.com/u/30740698?v=4&s=460" height="66px" width="66px"></a>
+<a href="https://github.com/Mars-Cat"><img src="https://avatars3.githubusercontent.com/u/34885717?s=460&v=4?v=4&s=460" height="66px" width="66px"></a>
 
 ## 新人必看
 
@@ -116,6 +125,19 @@ bd谱专用半音阶口琴使用，由数字和b或d构成（如10b，10d）。�
 本站完全出于兴趣构建，基本零成本，如果大家喜欢，还请在github上star一下本项目，顺便follow一下本人~~ 阿里嘎多！
 
 另外，如果对本站有什么建议也一定要在issue中提出来哦！要是能够PR那就再好不过了- -！
+
+## Q&A专区
+
+Q：曲谱库和网站和客户端是什么关系
+A：曲谱库是利用github的相关功能来存放谱子，起到一个数据库的作用。网站和客户端则是通过调用曲谱库中的数据，更好的方便大家使用，但其实利用github曲库本身也能实现谱子的查找。总的来说，github曲库就像是砖，用它可以搭建不同风格的建筑（网站或客户端）。我近期会将曲库的api端口详细的写出来，如果有小伙伴想用咱们曲库开发自己的网站或者客户端，咱们绝对是热烈欢迎！并且提供一对一的技术支持！（ios开发的小伙伴你在哪里？快到碗里来！）
+
+Q：网站老是上不去，怕自己上传的谱子消失，没有安全感- -！
+A：额。。。黑人问号.jpg  这里我必须解释一下，之前网站是我自己学习编程所写，中途由于换了几次域名，导致原来的域名无法正常访问。但是，目前可以负责人的告诉大家，github曲库至始至终都是可以正常访问的并上传谱子的。相信只要大家理解曲谱库和网站或客户端的关系，就不会有后顾之忧了。github男友力max！安全感爆表啊！
+
+Q：github曲库和主站自由神社什么关系？
+A：我个人给github曲库的定位是一个存放谱子的数据库，因为楼主也参（划）与（水）了自由神社新版本的开发，所以已经确定的是，等新站上线，本曲库的所有谱子都会连同老站的谱子一起移植到新站。所以也请小伙伴本不要没有安全感- -！安安心心上传吧！我们也知道谱子是小伙伴们辛辛苦苦扒出来的，那份想与大家分享的心情我们是坚决不会辜负的！！！
+
+
 
 ## License
 
