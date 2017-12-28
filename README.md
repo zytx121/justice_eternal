@@ -19,7 +19,7 @@
 <a href="https://github.com/Mars-Cat"><img src="https://avatars3.githubusercontent.com/u/34885717?s=460&v=4?v=4&s=460" height="66px" width="66px"></a>
 
 
-## API
+## Usage
 
 #### getIssues
 ```
