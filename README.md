@@ -18,6 +18,26 @@
 <a href="https://github.com/NorthPoleStar"><img src="https://avatars1.githubusercontent.com/u/30740698?v=4&s=460" height="66px" width="66px"></a>
 <a href="https://github.com/Mars-Cat"><img src="https://avatars3.githubusercontent.com/u/34885717?s=460&v=4?v=4&s=460" height="66px" width="66px"></a>
 
+
+## API
+
+#### getIssues
+```
+https://api.github.com/search/issues?q=${data.keyword}+state:open+repo:zytx121/justice_eternal${label}&sort=created&order=desc
+```
+
+#### getIssue
+```
+https://api.github.com/repos/zytx121/justice_eternal/issues/${number}
+```
+
+##### getLabels
+```
+https://api.github.com/repos/zytx121/justice_eternal/labels
+```
+
+> More detail: [Github REST API v3](https://developer.github.com/v3/issues/)
+
 ## Resource
 
 [贴吧地址](https://tieba.baidu.com/f?kw=justice_eternal)
