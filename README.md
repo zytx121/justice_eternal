@@ -3,17 +3,12 @@
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
-## 什么是je谱
-je常用的谱子有简谱和bd谱两种（现在用bd谱已经比较少了）
+## je谱
 
-je常用的简谱并没有标出节奏（这造成了一定的不便，但也造就了这样的简谱非常便于搬运和转调的优势），1234567对应一个八度内的7个音，｛｝中为超低音区音（16孔半音阶最低的那个八度），（）中为低音区音（16孔半音阶口琴第二低的那个八度，其他口琴最低的那个八度），[]中为高音区音（各种口琴最高的那个八度）
-
-1＝C的情况下1234567同简谱的中音，#升半音，例如1# 123中#1为升半音，即推半音键。
-1＝#C的情况下，1234567全部是升半音，b为降半音，如12b13中的b1即松半音阶推键。
-
-bd谱专用半音阶口琴使用，由数字和b或d构成（如10b，10d）。数字代表着半音阶口琴中对应的孔的编号，b代表吹气（blow），d代表吸气（drew），（）内代表需要按键。
-
-至于时值节奏，单曲循环自行把握。
+- 1＝C的情况下1234567同简谱的中音，#升半音，例如1# 123中#1为升半音，即推半音键。
+- 1＝#C的情况下，1234567全部是升半音，b为降半音，如12b13中的b1即松半音阶推键。
+- ｛｝中为超低音区音,（）中为低音区音,[] 中为高音区音
+- 至于时值节奏，单曲循环自行把握。
 
 ## 相关资源
 
@@ -38,13 +33,6 @@ bd谱专用半音阶口琴使用，由数字和b或d构成（如10b，10d）。�
 <a href="https://github.com/NorthPoleStar"><img src="https://avatars1.githubusercontent.com/u/30740698?v=4&s=460" height="66px" width="66px"></a>
 <a href="https://github.com/Mars-Cat"><img src="https://avatars3.githubusercontent.com/u/34885717?s=460&v=4?v=4&s=460" height="66px" width="66px"></a>
 
-
-
-## 关于本站
-
-本站完全出于兴趣构建，基本零成本，如果大家喜欢，还请在github上star一下本项目，顺便follow一下本人~~ 阿里嘎多！
-
-另外，如果对本站有什么建议也一定要在issue中提出来哦！要是能够PR那就再好不过了- -！
 
 ## Q&A专区
 
