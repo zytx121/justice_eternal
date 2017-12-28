@@ -33,15 +33,7 @@ https://api.github.com/repos/zytx121/justice_eternal/labels
 
 ## Resource
 
-[贴吧地址](https://tieba.baidu.com/f?kw=justice_eternal)
-
-[移动端网站](http://jefun.top)
-
-[PC端网站](http://lightmoon.pw)
-
-[安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
-
-[曲库地址](https://github.com/zytx121/justice_eternal/issues)
+[贴吧地址](https://tieba.baidu.com/f?kw=justice_eternal) | [移动端网站](http://jefun.top) | [PC端网站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/justice_eternal/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
 
 交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
 
