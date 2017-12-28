@@ -17,17 +17,18 @@ bd谱专用半音阶口琴使用，由数字和b或d构成（如10b，10d）。�
 
 ## 相关资源
 
-曲库地址：[https://github.com/zytx121/justice_eternal/issues](https://github.com/zytx121/justice_eternal/issues)
+[贴吧地址](https://tieba.baidu.com/f?kw=justice_eternal)
 
-移动端网站：[jefun.top](http://jefun.top)
+[移动端网站](http://jefun.top)
 
-PC端网站：[lightmoon.pw](http://lightmoon.pw)
+[PC端网站](http://lightmoon.pw)
 
-安卓客户端下载地址： https://pan.baidu.com/s/1pLMIsn5 密码: qrt9
+[安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
+
+[曲库地址](https://github.com/zytx121/justice_eternal/issues)
 
 交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
 
-传谱教程： [https://github.com/zytx121/justice_eternal/blob/master/instruction.md](https://github.com/zytx121/justice_eternal/blob/master/instruction.md)
 
 ## Contributors
 
