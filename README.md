@@ -36,7 +36,7 @@ https://api.github.com/repos/zytx121/justice_eternal/issues/${number}
 https://api.github.com/repos/zytx121/justice_eternal/labels
 ```
 
-> More detail: [Github REST API v3](https://developer.github.com/v3/issues/)
+> Reference： [Github REST API v3](https://developer.github.com/v3/issues/)
 
 ## Resource
 
