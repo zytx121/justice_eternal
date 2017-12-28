@@ -3,6 +3,12 @@
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
+## Resource
+
+[贴吧地址](https://tieba.baidu.com/f?kw=justice_eternal) | [移动端网站](http://jefun.top) | [PC端网站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/justice_eternal/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
+
+交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
+
 ## Contributors
 
 <a href="https://tieba.baidu.com/f?kw=justice_eternal&fr=index"><img src="http://upload-images.jianshu.io/upload_images/2141706-4bdf2f2289334639.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="66px" width="66px"></a>
@@ -31,11 +37,9 @@ https://api.github.com/repos/zytx121/justice_eternal/labels
 
 > Reference： [Github REST API v3](https://developer.github.com/v3/issues/)
 
-## Resource
 
-[贴吧地址](https://tieba.baidu.com/f?kw=justice_eternal) | [移动端网站](http://jefun.top) | [PC端网站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/justice_eternal/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
+## 	Explanation
 
-交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
 
 #### je谱
 
