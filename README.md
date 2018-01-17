@@ -1,4 +1,4 @@
-# Justice_Eternal 曲谱库
+# Justice_Eternal 曲谱库（本库已停止更新，请转至[2.0版本](https://github.com/zytx121/je)）
 > 一个非营利的、兴趣驱动的曲谱编辑、发布与整理解决方案。
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
